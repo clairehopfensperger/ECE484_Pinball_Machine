@@ -1,3 +1,3 @@
 # ECE484_Pinball_Machine
 
-Hi :)
+Check out the [wiki](https://github.com/clairehopfensperger/ECE484_Pinball_Machine/wiki) here!
